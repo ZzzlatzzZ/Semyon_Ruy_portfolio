@@ -1,5 +1,15 @@
 # Портфолио: аналитик данных
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="http://t.me/Zzz_lat119">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=plastic" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 ## Обо мне 
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Привет! Меня зовут Семён, я начинающий аналитик данных.</h3>

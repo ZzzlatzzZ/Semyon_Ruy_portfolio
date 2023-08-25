@@ -50,9 +50,25 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Привет! Меня зовут Семён, я начинающий аналитик данных.</h3>
-В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики. 
-<br>
+---
 
-## Навыки и технологии
-- Инструменты анализа данных: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/excel/excel.png"></code>
+### :fire: My Stats :
+
+<p> Проект 1: Калькулятор юнит-экономики онлайн-школы</p>
+<p>Что нужно было сделать:<p>
+<ol>
+  <li>Собрать калькулятор юнит-экономики</li>
+  <li>Выполнить соответсвующие расчеты</li>
+</ol>
+
+<p>Как решала: На основе сырых данных я расчитал помесячный retention подписчиков нашей онлайн-школы, их LT, базовую и фактическую цену услуг, затраты на привлечение (CAC) и LTR, после чего я, на основе этих данных, собрал калькулятор юнит-экономики, в котором конечным показателем была маржинальность. Стояла задача выйти на 25% маржинальности. <p>
+
+
+> <a href="https://docs.google.com/spreadsheets/d/1ih2EgEuBhy95MWk-M-MaoU7hBYnHtJZdtSbs1Ax49YU/edit?usp=sharing">Ссылка на проект</a>
+
+<p>Выводы (итоги):<p>
+<ol>
+  <li>Итог №1</li>
+  <li>Итог №2</li>
+</ol>
+<br> 

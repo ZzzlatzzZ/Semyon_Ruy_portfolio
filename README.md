@@ -10,8 +10,26 @@
   </a>
 </div>
 
-## Обо мне 
+<h1 align="center">
+  Hello World!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :man_technologist: Обо мне :
+
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Я начинающий аналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы.
+
+- :telescope: Учусь в Финансовом университете при Правительстве РФ на факультете налогов, аудита и бизнес-анализа, 3 курс.
+
+- :seedling: Закончил курс "Аналитик данных" на крупнейшей платформе онлайн-обучения SkyPro.
+
+- :zap: В свободное время занимаюсь созданием telegram-ботов, постоянно совершенствую свои навыки написания кода на Python, SQL, bash и не собираюсь на них останавливаться. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Привет! Меня зовут Семён, я начинающий аналитик данных.</h3>
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики. 
 <br>

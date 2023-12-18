@@ -29,6 +29,8 @@
 
 - :zap: В свободное время занимаюсь созданием telegram-ботов, прохожу различные курсы на платформе Stepik, постоянно совершенствую свои навыки написания кода на Python, SQL, bash и не собираюсь на них останавливаться. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
+- :file_folder: Свои сертификаты оставлю здесь: <a href="https://docs.google.com/document/d/163SulCv_ZsgtH0maCGFz4_FoL2rgMNbcnTidI6CFSO4/edit?usp=sharing">Тык</a>
+
 - :mailbox:Для связи со мной: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=plastic)](http://t.me/Zzz_lat119)
   
 ---
